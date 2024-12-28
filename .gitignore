@@ -1,0 +1,8 @@
+output
+/coco_2014_caption/
+/Qwen
+/swanlog
+data_vl_test.json
+data_vl_train.json
+data_vl.json
+coco-2024-dataset.csv

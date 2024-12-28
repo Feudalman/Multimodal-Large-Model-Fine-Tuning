@@ -1,0 +1,13 @@
+torch
+torchvision
+modelscope
+transformers
+sentencepiece
+accelerate
+datasets
+peft
+swanlab
+qwen-vl-utils
+pandas
+oss2
+addict
